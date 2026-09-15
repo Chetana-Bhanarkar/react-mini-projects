@@ -69,3 +69,31 @@ The project contains two mini applications:
 - Derived values
 - Handling user interactions
 - Conditional rendering
+
+
+# Day 4 — Registration Form
+
+A practical React mini project focused on building a user registration form
+and understanding how to manage form inputs and user interactions in React.
+
+## 🎯 Objective
+
+The goal of this project is to understand how to create and manage forms
+in React using controlled components.
+
+The registration form collects basic user information and performs
+validation before submission.
+
+## 📚 Concepts Covered
+
+- `useState`
+- Controlled Components
+- Form State Management
+- Handling Input Changes
+- Handling Form Submission
+- Form Validation
+- Conditional Rendering
+- Error Messages
+- Input Types
+- `preventDefault()`
+- Resetting Form Data
