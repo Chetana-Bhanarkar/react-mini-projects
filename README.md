@@ -18,3 +18,25 @@ through a simple and practical UI.
 - Rendering components
 - Basic TypeScript props
 - Reusable UI components
+
+
+# Day 2 — Reusable Components
+
+A practical React mini project focused on creating reusable components
+and understanding how components can be used with different data and content.
+
+## 🎯 Objective
+
+The goal of this project is to understand how to build reusable React
+components instead of creating the same UI structure multiple times.
+
+## 📚 Concepts Covered
+
+- Functional Components
+- Reusable Components
+- Props
+- `children` prop
+- `ReactNode`
+- Component Composition
+- Passing data through props
+- Flexible and reusable UI components
