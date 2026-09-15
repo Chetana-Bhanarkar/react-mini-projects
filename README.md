@@ -97,3 +97,30 @@ validation before submission.
 - Input Types
 - `preventDefault()`
 - Resetting Form Data
+
+
+# Day 5 — Todo Application
+
+A practical React mini project focused on managing a list of tasks using
+React state and user interactions.
+
+## 🎯 Objective
+
+The goal of this project is to build a simple Todo Application and
+understand how React can be used to add, update, complete, and remove
+items from a list.
+
+## 📚 Concepts Covered
+
+- `useState`
+- State Management
+- Controlled Inputs
+- Handling Form Submission
+- Rendering Lists with `map()`
+- Updating Arrays in State
+- Adding Items
+- Deleting Items
+- Updating Items
+- Conditional Rendering
+- Event Handling
+- Derived Values
