@@ -158,8 +158,7 @@ communicate with external APIs and manage asynchronous data using
 A practical React mini project that combines the concepts covered in the
 previous six projects into a small e-commerce application.
 
-The project brings together components, props, state management, forms,
-API integration, list rendering, and user interactions in one application.
+The project brings together components, props, state management, list rendering, and user interactions in one application.
 
 ## 🎯 Objective
 
