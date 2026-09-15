@@ -40,3 +40,32 @@ components instead of creating the same UI structure multiple times.
 - Component Composition
 - Passing data through props
 - Flexible and reusable UI components
+
+
+# Day 3 — Counter + Shopping Cart
+
+A practical React mini project focused on understanding **state management**
+using `useState` by building a Counter and a simple Shopping Cart.
+
+## 🎯 Objective
+
+The goal of this project is to understand how React state works and how
+state updates trigger UI re-rendering.
+
+The project contains two mini applications:
+
+1. Counter
+2. Shopping Cart
+
+## 📚 Concepts Covered
+
+- `useState`
+- State vs Variables
+- Updating state
+- Functional state updates
+- Multiple state values
+- Rendering data from state
+- Updating objects and arrays in state
+- Derived values
+- Handling user interactions
+- Conditional rendering
