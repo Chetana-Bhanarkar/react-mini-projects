@@ -151,3 +151,39 @@ communicate with external APIs and manage asynchronous data using
 - TypeScript Interfaces
 - Conditional Rendering
 - List Rendering with `map()`
+
+
+# Day 7 — Mini E-Commerce Application
+
+A practical React mini project that combines the concepts covered in the
+previous six projects into a small e-commerce application.
+
+The project brings together components, props, state management, forms,
+API integration, list rendering, and user interactions in one application.
+
+## 🎯 Objective
+
+The goal of this project is to revise and apply the core React concepts
+covered in Days 1–6 by building a functional Mini E-Commerce application.
+
+## 📚 Concepts Covered
+
+This project combines:
+
+- React Components
+- Reusable Components
+- Props
+- `children`
+- JSX
+- `useState`
+- `useEffect`
+- Loading State
+- Error Handling
+- List Rendering with `map()`
+- Array Methods
+- `filter()`
+- `reduce()`
+- Updating Objects and Arrays in State
+- Conditional Rendering
+- Event Handling
+- Derived Values
