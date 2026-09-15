@@ -124,3 +124,30 @@ items from a list.
 - Conditional Rendering
 - Event Handling
 - Derived Values
+
+
+# Day 6 — Fetch User
+
+A practical React mini project focused on fetching user data from an API
+and displaying it in a user-friendly interface.
+
+## 🎯 Objective
+
+The goal of this project is to understand how React applications
+communicate with external APIs and manage asynchronous data using
+`useEffect` and `useState`.
+
+## 📚 Concepts Covered
+
+- `useState`
+- `useEffect`
+- API Integration
+- HTTP GET Request
+- Axios
+- Asynchronous Operations
+- Loading State
+- Error Handling
+- Rendering API Data
+- TypeScript Interfaces
+- Conditional Rendering
+- List Rendering with `map()`
