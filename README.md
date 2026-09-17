@@ -151,3 +151,68 @@ communicate with external APIs and manage asynchronous data using
 - TypeScript Interfaces
 - Conditional Rendering
 - List Rendering with `map()`
+
+
+# Day 7 — Mini E-Commerce Application
+
+A practical React mini project that combines the concepts covered in the
+previous six projects into a small e-commerce application.
+
+The project brings together components, props, state management, list rendering, and user interactions in one application.
+
+## 🎯 Objective
+
+The goal of this project is to revise and apply the core React concepts
+covered in Days 1–6 by building a functional Mini E-Commerce application.
+
+## 📚 Concepts Covered
+
+This project combines:
+
+- React Components
+- Reusable Components
+- Props
+- `children`
+- JSX
+- `useState`
+- `useEffect`
+- Loading State
+- Error Handling
+- List Rendering with `map()`
+- Array Methods
+- `filter()`
+- `reduce()`
+- Updating Objects and Arrays in State
+- Conditional Rendering
+- Event Handling
+- Derived Values
+
+
+# Day 8 — React Routing
+
+A practical React mini project focused on implementing client-side routing
+and navigating between different pages using React Router.
+
+## 🎯 Objective
+
+The goal of this project is to understand how React applications can
+handle multiple pages and navigation without a full-page browser reload.
+
+## 📚 Concepts Covered
+
+- `react-router-dom`
+- `BrowserRouter`
+- `Routes`
+- `Route`
+- `Link`
+- `NavLink`
+- `useNavigate`
+- `useParams`
+- `Outlet`
+- Layout Components
+- Dynamic Routes
+- Route Parameters
+- Nested Routes
+- Programmatic Navigation
+- Active Navigation Links
+- Conditional Rendering
