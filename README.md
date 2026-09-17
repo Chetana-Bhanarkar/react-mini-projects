@@ -186,3 +186,35 @@ This project combines:
 - Conditional Rendering
 - Event Handling
 - Derived Values
+
+
+# Day 8 — React Routing
+
+A practical React mini project focused on implementing client-side routing
+and navigating between different pages using React Router.
+
+## 🎯 Objective
+
+The goal of this project is to understand how React applications can
+handle multiple pages and navigation without a full-page browser reload.
+
+## 📚 Concepts Covered
+
+- `react-router-dom`
+- `BrowserRouter`
+- `Routes`
+- `Route`
+- `Link`
+- `NavLink`
+- `useNavigate`
+- `useParams`
+- `Outlet`
+- Layout Components
+- Client-Side Routing
+- Dynamic Routes
+- Route Parameters
+- Nested Routes
+- Programmatic Navigation
+- Active Navigation Links
+- 404 / Not Found Route
+- Conditional Rendering
