@@ -216,3 +216,33 @@ handle multiple pages and navigation without a full-page browser reload.
 - Programmatic Navigation
 - Active Navigation Links
 - Conditional Rendering
+
+
+# Day 9 — API Integration
+
+A practical React mini project focused on integrating a REST API into a
+React application and handling API requests, responses, loading states,
+and errors.
+
+## 🎯 Objective
+
+The goal of this project is to understand how React applications
+communicate with backend APIs and how API data can be fetched, managed,
+and displayed in the UI.
+
+## 📚 Concepts Covered
+
+- REST API
+- HTTP GET Request
+- API Integration
+- Axios
+- `useEffect`
+- `useState`
+- Async/Await
+- Promises
+- Loading State
+- Error Handling
+- API Response Handling
+- TypeScript Interfaces
+- Rendering API Data
+- Conditional Rendering
