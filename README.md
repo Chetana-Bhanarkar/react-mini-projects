@@ -246,3 +246,28 @@ and displayed in the UI.
 - TypeScript Interfaces
 - Rendering API Data
 - Conditional Rendering
+
+
+# Day 10 — Custom Hooks
+
+A practical React mini project focused on creating and using **custom hooks**
+to extract reusable logic from React components.
+
+## 🎯 Objective
+
+The goal of this project is to understand how custom hooks can be used to
+reuse stateful logic across multiple React components and keep components
+clean and maintainable.
+
+## 📚 Concepts Covered
+
+- What are Custom Hooks?
+- Rules of Hooks
+- `useState`
+- `useEffect`
+- Creating Custom Hooks
+- Reusing Stateful Logic
+- Hook Parameters
+- Returning Values and Functions from Hooks
+- Separating Logic from UI
+- TypeScript with Custom Hooks
